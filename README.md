@@ -1,7 +1,5 @@
 #Smtx_Spark
 
-  
-
 ##Conceitos sobre Spark
 
 **Qual o objetivo do comando cache() em Spark?**
