@@ -1,6 +1,8 @@
 #Smtx_Spark
 
-## Conceitos sobre Spark
+  
+
+##Conceitos sobre Spark
 
 **Qual o objetivo do comando cache() em Spark?**
 
@@ -34,9 +36,10 @@ Por default, os dados são armazenados em memória mas também podem ser armazen
 Ao utilizar reduceByKey, o Spark sabe que pode combinar a saída com uma chave comum em cada partição antes de enviar os dados para outro executor calcular o resultado final.
 Por outro lado, ao chamar groupByKey todos os pares de valores-chave são enviados. Isso faz com que um volume maior de dados desnecessários sejam transferidos pela rede.
 
-Fica mais fácil entender visualizando os diagramas disponíveis [aqui](https://databricks.gitbooks.io/databricks-spark-knowledge-base/content/best_practices/prefer_reducebykey_over_groupbykey.html).
+Fica mais fácil entender visualizando os diagramas a seguir disponíveis [aqui](https://databricks.gitbooks.io/databricks-spark-knowledge-base/content/best_practices/prefer_reducebykey_over_groupbykey.html).
 
 ![alt text](https://databricks.gitbooks.io/databricks-spark-knowledge-base/content/images/reduce_by.png)
+![alt text](https://databricks.gitbooks.io/databricks-spark-knowledge-base/content/images/group_by.png)
 
 **Explique o que o código Scala abaixo faz.**
 
