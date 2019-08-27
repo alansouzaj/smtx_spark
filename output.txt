@@ -1,0 +1,82 @@
+Number of hosts in July: 55
+Number of hosts in August: 53
+Number of 404 errors in July: 10845
+Number of 404 errors in August: 10056
+
+Top 5 endpoints causing 404 on Jul/1995:
+/pub/winvn/readme.txt 667
+/pub/winvn/release.txt 547
+/history/apollo/apollo-13.html 286
+/shuttle/resources/orbiters/atlantis.gif 232
+/history/apollo/a-001/a-001-patch-small.gif 230
+
+Top 5 endpoints causing 404 on Aug/1995:
+/pub/winvn/readme.txt 1337
+/pub/winvn/release.txt 1185
+/shuttle/missions/STS-69/mission-STS-69.html 683
+/images/nasa-logo.gif 319
+/shuttle/missions/sts-68/ksc-upclose.gif 253
+
+Number of 404 errors by day on Jul/1995:
+06/Jul/1995 640
+19/Jul/1995 639
+07/Jul/1995 570
+13/Jul/1995 532
+05/Jul/1995 497
+03/Jul/1995 474
+12/Jul/1995 471
+11/Jul/1995 471
+18/Jul/1995 465
+25/Jul/1995 461
+20/Jul/1995 428
+14/Jul/1995 413
+17/Jul/1995 406
+10/Jul/1995 398
+04/Jul/1995 359
+09/Jul/1995 348
+26/Jul/1995 336
+27/Jul/1995 336
+21/Jul/1995 334
+24/Jul/1995 328
+01/Jul/1995 316
+08/Jul/1995 302
+02/Jul/1995 291
+16/Jul/1995 257
+15/Jul/1995 254
+23/Jul/1995 233
+22/Jul/1995 192
+28/Jul/1995 94
+
+Number of 404 errors by day on Aug/1995:
+30/Aug/1995 571
+07/Aug/1995 537
+31/Aug/1995 526
+29/Aug/1995 420
+24/Aug/1995 420
+25/Aug/1995 415
+28/Aug/1995 410
+08/Aug/1995 391
+06/Aug/1995 373
+27/Aug/1995 370
+26/Aug/1995 366
+04/Aug/1995 346
+23/Aug/1995 345
+15/Aug/1995 327
+10/Aug/1995 315
+20/Aug/1995 312
+21/Aug/1995 305
+03/Aug/1995 304
+22/Aug/1995 288
+14/Aug/1995 287
+09/Aug/1995 279
+17/Aug/1995 271
+11/Aug/1995 263
+16/Aug/1995 259
+18/Aug/1995 256
+01/Aug/1995 243
+05/Aug/1995 236
+13/Aug/1995 216
+19/Aug/1995 209
+12/Aug/1995 196
+ÒXITO: o processo com PID 8116 (processo filho de PID 11172) foi finalizado.
+ÒXITO: o processo com PID 11172 (processo filho de PID 11588) foi finalizado.
