@@ -1,23 +1,23 @@
-Number of hosts in July: 55
-Number of hosts in August: 53
+Number of distinct hosts in July: 55
+Number of distinct hosts in August: 53
 Number of 404 errors in July: 10845
 Number of 404 errors in August: 10056
 
-Top 5 endpoints causing 404 on Jul/1995:
+Top 5 endpoints causing 404 in Jul/1995:
 /pub/winvn/readme.txt 667
 /pub/winvn/release.txt 547
 /history/apollo/apollo-13.html 286
 /shuttle/resources/orbiters/atlantis.gif 232
 /history/apollo/a-001/a-001-patch-small.gif 230
 
-Top 5 endpoints causing 404 on Aug/1995:
+Top 5 endpoints causing 404 in Aug/1995:
 /pub/winvn/readme.txt 1337
 /pub/winvn/release.txt 1185
 /shuttle/missions/STS-69/mission-STS-69.html 683
 /images/nasa-logo.gif 319
 /shuttle/missions/sts-68/ksc-upclose.gif 253
 
-Number of 404 errors by day on Jul/1995:
+Number of 404 errors by day in Jul/1995:
 06/Jul/1995 640
 19/Jul/1995 639
 07/Jul/1995 570
@@ -47,7 +47,7 @@ Number of 404 errors by day on Jul/1995:
 22/Jul/1995 192
 28/Jul/1995 94
 
-Number of 404 errors by day on Aug/1995:
+Number of 404 errors by day in Aug/1995:
 30/Aug/1995 571
 07/Aug/1995 537
 31/Aug/1995 526
@@ -78,5 +78,6 @@ Number of 404 errors by day on Aug/1995:
 13/Aug/1995 216
 19/Aug/1995 209
 12/Aug/1995 196
-ÒXITO: o processo com PID 8116 (processo filho de PID 11172) foi finalizado.
-ÒXITO: o processo com PID 11172 (processo filho de PID 11588) foi finalizado.
+ÒXITO: o processo com PID 11652 (processo filho de PID 13256) foi finalizado.
+ÒXITO: o processo com PID 13256 (processo filho de PID 11888) foi finalizado.
+ÒXITO: o processo com PID 11888 (processo filho de PID 6228) foi finalizado.

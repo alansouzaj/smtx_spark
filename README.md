@@ -2,6 +2,7 @@
 
 Extração informações de logs requisições HTTP da NASA e apresentação de conceitos sobre Spark
 
+## Conceitos Spark
 
 **Qual o objetivo do comando cache() em Spark?**
 
